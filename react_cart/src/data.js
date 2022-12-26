@@ -4,7 +4,7 @@ export default [
     title: 'Samsung Galaxy S7',
     price: 599.99,
     img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583368215/phone-2_ohtt5s.png',
+      'https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7--.jpg',
     amount: 1,
   },
   {
@@ -12,7 +12,7 @@ export default [
     title: 'google pixel ',
     price: 499.99,
     img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583371867/phone-1_gvesln.png',
+      'https://lh3.googleusercontent.com/5wIYsY-0T7ujv4PytJ-gVZOKkoVA8j0t0ldq-SsuJAbHq3w3X6udwIgyE0wpwyRUXTxHp_wkd6wz76bMlv-976dWLAEfrZLTKQ=rw-e365-w240',
     amount: 1,
   },
   {
@@ -20,7 +20,7 @@ export default [
     title: 'Xiaomi Redmi Note 2',
     price: 699.99,
     img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583368224/phone-3_h2s6fo.png',
+      'https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-2--.jpg',
     amount: 1,
   },
 ];
